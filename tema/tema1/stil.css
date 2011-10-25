@@ -1,0 +1,105 @@
+.continut a{
+border:3px solid gray;
+background-color:white;
+text-decoration:none;
+color:blue;
+width:100px;
+height:30px;
+padding:10px;
+position:absolute;
+top:710px;
+left:620px;
+}
+.continut a:hover{
+background-color:blue;
+color:black;
+}
+.meniu1 a{
+border:3px solid gray;
+background-color:white;
+text-decoration:none;
+color:gray;
+width:100px;
+height:50px;
+padding:10px;
+position:absolute;
+top:10px;
+left:402px;
+}
+.meniu1 a:hover{
+background-color:gray;
+color:black;
+}
+.meniu2 a{
+border:3px solid gray;
+background-color:white;
+text-decoration:none;
+color:gray;
+width:100px;
+height:50px;
+padding:10px;
+position:absolute;
+top:10px;
+left:534px;
+}
+.meniu2 a:hover{
+background-color:gray;
+color:black;
+}
+.meniu3 a{
+border:3px solid gray;
+background-color:white;
+text-decoration:none;
+color:gray;
+width:100px;
+height:50px;
+padding:10px;
+position:absolute;
+top:10px;
+left:666px;
+}
+.meniu3 a:hover{
+background-color:gray;
+color:black;
+}
+.meniu4 a{
+border:3px solid grey;
+background-color:white;
+text-decoration:none;
+color:gray;
+width:100px;
+height:50px;
+padding:10px;
+position:absolute;
+top:10px;
+left:798px;
+}
+.meniu4 a:hover{
+background-color:gray;
+color:black;
+}
+.center {
+border:5px solid gray;
+background-color:white;
+color:black;
+width:500px;
+height:700px;
+padding:10px;
+position:absolute;
+top:100px;
+left:400px;
+}
+.sigla {
+width:100px;
+height:50px;
+position:absolute;
+top:0px;
+left:80px;
+}
+.minn {
+background-image:url(minn.jpg)
+
+}
+body{
+background-image:url(minecraft-logo-small.png);
+}
