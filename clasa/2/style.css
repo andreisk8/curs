@@ -1,0 +1,33 @@
+.header {
+ background-color:red;
+ width:900px;
+ margin:0px auto;
+ height:200px;
+}
+.left {
+ background-color:yellow;
+ width:900px;
+ float:left;
+ height:200px;
+}
+.right {
+ background-color:yellow;
+ width:900px;
+ float:right;
+ height:200px;
+}
+.content {
+ background-color:blue;
+ width:300px;
+ margin:0px auto;
+ height:200px auto;
+ 
+.footer {
+  background-color:green;
+  width:900px;
+  margin:0px auto;
+  height:200px;
+}
+.clearfix {
+clear:both;
+}
